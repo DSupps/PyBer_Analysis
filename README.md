@@ -19,6 +19,7 @@ Initial repository setup
 - Software: Anaconda Version 3.7.3, MacOS Catalina Version 10.15.7, Jupyter Notebook
 
 ## Challenge Results - Pyber Challenge
+### Pyber Summary
 ![pyber_summary_df](https://user-images.githubusercontent.com/36451701/119275097-218f3080-bbe1-11eb-881e-e2a13699d99c.png)
 
 The analysis of the ride sharing data shows that:
