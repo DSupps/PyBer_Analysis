@@ -36,14 +36,18 @@ Analysis of the Pyber Summary data show that:
 
 The analysis for the total fare by city type shows that:
 - Fares generated in January through April are at it's lowest in January for Rural, Suburban and Urban cities. 
-- In the middle of February fares see a spike up for Rural, Suburban, and Urban cities. 
+- In the mid to late Februarym, fares saw a spike up for Rural, Suburban, and Urban cities. 
 - Urban cities see an increase in fares starting in mid January that continue through April.
 - Suburban cities see an increase in fares starting in mid January with boosts in early March and May.
 - Rural cities experienced more fare volaltiliy than Urban and Suburban with two spikes up in mid February and mid April. 
 
-
 ## Challenge Summary
+By looking at the data it is pretty easy to see that the highest ride activity and total fares are being generated in the urban cities. Urban cities generally have constant activity so they are nice and continuous revenue generators. However, their average fare per ride and per driver was lower than the other two cities types.  This was probably due to a lot more shorter ride times. 
 
+That does not mean that Rural and Suburban cities should be forgotten about.  Suburban cities had a nice steady inflow of fares generated. They did see two nice spikes in the middle of February and beginning of April.  This increase in activity in the Suburbs could be do to the fact that the people are traveling more for spring and summer vacations. Rural cities can get pretty slow at times but they too saw increases in late February and early April.  Rural cities have the highest average per ride fares and averager per driver fares. 
 
-
+### Recommendations
+1. Increase or create a minimum rider fare for Urban cities to increase average ride fare and generate more revenue.  
+2. Send a few more drivers out to the Suburban cities during peak vacation times (i.e. Spring Break, Holdidays, beginning of summer).
+3. Increase fares in Suburban citites during peak vaction times and lower them when demands drops.  
 
