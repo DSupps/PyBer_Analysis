@@ -22,7 +22,7 @@ Initial repository setup
 ### Pyber Summary
 ![pyber_summary_df](https://user-images.githubusercontent.com/36451701/119275097-218f3080-bbe1-11eb-881e-e2a13699d99c.png)
 
-The analysis of the ride sharing data shows that:
+Analysis of the Pyber Summary data show that:
 - Urban cities generate the most ride activity and total fares by far over Rural cities and about double Suburban cities. 
 - Urban cities have way more drivers than Rural and Suburban cities. 
 - Rural cities generate the highest per average fares but generate much less ride activity and total fares. 
