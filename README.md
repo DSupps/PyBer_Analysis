@@ -12,7 +12,7 @@ Analyze and visualize PyBer 2019 ride-sharing data using Python, Pandas and Matp
 2. Deliverable 2: A multiple-line chart of total fares for each city type. 
 3. Deliverable 3: A written report for PyBer analysis (README.md)
 
-### Project Resources
+### Project Resources:
 
 - Data Source: 
     - Pyber_Challenge_starter_code
