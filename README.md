@@ -1,5 +1,6 @@
 
 # PyBer_Analysis
+![bike_sharing](https://user-images.githubusercontent.com/36451701/143140969-367a423a-42a1-47bf-b7e2-74a190bf217d.png)
 
 ## Project Overview:
 
