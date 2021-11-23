@@ -1,7 +1,7 @@
 
 # PyBer_Analysis
 
-## PyBer Analysis - Project Overview:
+## Project Overview:
 *Create a summary of the ride-sharing data by city type for V.Isualize.  The challenge consists of two technical analysis delieverables and a written report of the results.*
 
 1. Deliverable 1: A ride-sharing summary DataFrame by city type
