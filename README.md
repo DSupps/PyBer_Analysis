@@ -2,13 +2,17 @@
 # PyBer_Analysis
 
 ## Project Overview:
+
+Analyze and visualize PyBer 2019 ride-sharing data using Python, Pandas and Matplotlib, to help the company improve access to ride-sharing services and determine affordability for underserved neighborhoods.
+
+### Project Challenge:
 *Create a summary of the ride-sharing data by city type for V.Isualize.  The challenge consists of two technical analysis delieverables and a written report of the results.*
 
 1. Deliverable 1: A ride-sharing summary DataFrame by city type
 2. Deliverable 2: A multiple-line chart of total fares for each city type. 
 3. Deliverable 3: A written report for PyBer analysis (README.md)
 
-## Resources
+### Project Resources
 
 - Data Source: 
     - Pyber_Challenge_starter_code
